@@ -1,6 +1,15 @@
+<div>
 Olá, sou Leandro Candido!
 
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrolccs&show_icons=true&theme=radical)](https://github.com/leandrolccs/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolccs&size_weight=0.5&count_weight=0.5&langs_count=10)
+<table>
+  <tr>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=leandrolccs&show_icons=true&theme=radical"/>
+  </tr>
+
+  <tr>
+    <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=leandro.lccs&layout=donut](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)"/>
+    
+  </tr>
+  
+</table>
 </div>
