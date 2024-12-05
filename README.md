@@ -1,15 +1,20 @@
+## Olá, sou Leandro Candido!
 <div>
-Olá, sou Leandro Candido!
+  <a href="https://github.com/leandrolccs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolccs&show_icons=true&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolccs&layout=compact&langs_count=8">
+</div>
 
-<table>
-  <tr>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=leandrolccs&show_icons=true&theme=radical"/>
-  </tr>
-
-  <tr>
-    <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=leandro.lccs&layout=donut](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)"/>
-    
-  </tr>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
   
-</table>
+  ##
+ 
+<div> 
+ <a href="mailto:leandro.lccs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/leandro-candido-lccs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
